@@ -1,4 +1,7 @@
-The MIT License (MIT)
+The MIT License (MIT) 
+
+https://tldr.sh/
+
 
 Copyright (c) 2015-2016 [The project contributors](https://github.com/tldr-pages/tldr-pages.github.io/graphs/contributors)
 
